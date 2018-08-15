@@ -1,0 +1,7 @@
+geckodriver.exe
+db.sqlite3
+geckodriver-v0.21.0-win64.zip
+geckodriver.log
+virtualenv
+.vscode
+*.pyc 
